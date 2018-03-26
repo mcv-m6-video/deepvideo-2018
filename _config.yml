@@ -14,10 +14,10 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "3rd Summer School on Deep Learning for Computer Vision UPC Barcelona 2018"
+title:       "Deep Learning for Video, Master in Computer Vision Barcelona 2018"
 keywords:    "computer vision, deep learning"
-description: "3rd Summer School on Deep Learning for Computer Vision UPC Barcelona 2018"
-source_link: "https://github.com/telecombcn-dl"
+description: "Deep Learning for Video, Master in Computer Vision Barcelona 2018"
+source_link: "https://github.com/mcv-m6-video"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 # google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
