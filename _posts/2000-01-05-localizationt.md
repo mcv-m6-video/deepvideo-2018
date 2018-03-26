@@ -1,5 +1,5 @@
 ---
-title: "Detection"
+title: "Time Loc."
 bg: #9AD1F5
 color: black
 fa-icon: camera
