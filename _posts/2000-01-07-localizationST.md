@@ -2,7 +2,7 @@
 title: "Spatial Loc."
 bg: #9AD1F5
 color: black
-fa-icon: user
+fa-icon: square
 ---
 
 
