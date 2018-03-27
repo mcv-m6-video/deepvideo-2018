@@ -2,11 +2,10 @@
 title: "Recognition"
 bg: blue
 color: white
+style: center
 fa-icon: clock-o
 ---
 
 ## Action Recognition
 
-<center>
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/7j4iDvgLk9sCf0" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/xavigiro/deep-learning-for-video-action-recognition-upc-2018" title="Deep Learning for Video: Action Recognition (UPC 2018)" target="_blank">Deep Learning for Video: Action Recognition (UPC 2018)</a> </strong> from <strong><a href="https://www.slideshare.net/xavigiro" target="_blank">Universitat Politècnica de Catalunya</a></strong> </div>
-</center>
