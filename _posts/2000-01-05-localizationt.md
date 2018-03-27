@@ -2,7 +2,8 @@
 title: "Time Loc."
 bg: #9AD1F5
 color: black
-fa-icon: camera
+style: center
+fa-icon: clock
 ---
 
 ## Temporal Localization
